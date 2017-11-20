@@ -1,0 +1,28 @@
+{
+  "name": "node-getlocalip",
+  "version": "1.0.1",
+  "description": "get local ip",
+  "main": "index.js",
+  "dependencies": {
+    "index": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokokele/getLocalIP.git"
+  },
+  "keywords": [
+    "ip",
+    "localip",
+    "getip"
+  ],
+  "author": "kokokele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokokele/getLocalIP/issues"
+  },
+  "homepage": "https://github.com/kokokele/getLocalIP#readme"
+}
